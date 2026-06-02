@@ -17,10 +17,10 @@ This project generates personalized project ideas based on user skills, interest
 
 ## FINAL RESULT (After all steps)
 Your app will have:
-🎨 Beautiful UI cards
-📊 Accuracy bars
-🧠 Smart scoring system
-📋 Project steps
-🔁 Regenerate option
-💾 Download feature
-⭐ Top recommendation
+- Beautiful UI cards
+- Accuracy bars
+- Smart scoring system
+- Project steps
+- Regenerate option
+- Download feature
+- Top recommendation
