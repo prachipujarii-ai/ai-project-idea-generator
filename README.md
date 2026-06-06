@@ -51,5 +51,6 @@ Show how users interact with the app (e.g., “Enter your skills and interests, 
 
 <img width="986" height="720" alt="image" src="https://github.com/user-attachments/assets/6283982d-efa9-433a-9025-be8bee83b110" />
 
+<img width="931" height="912" alt="image" src="https://github.com/user-attachments/assets/aaf88bfc-5510-42ee-b339-be3de64e6af0" />
 
 
