@@ -28,8 +28,8 @@ Your app will have:
 ## Installation & Setup
 Step-by-step instructions to clone the repo, install dependencies, and run the app. 
 Example:
-```git clone https://github.com/prachipujarii-ai/ai-project-idea-generator.git```
-```cd ai-project-idea-generator```
+```git clone https://github.com/prachipujarii-smart-project-idea-generator.git```
+```cd smart-project-idea-generator```
 ```pip install -r requirements.txt```
 ```streamlit run start.py```
 
