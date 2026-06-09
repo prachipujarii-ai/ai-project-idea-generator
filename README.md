@@ -46,11 +46,31 @@ Show how users interact with the app (e.g., “Enter your skills and interests, 
 - `.gitignore` → Keeps unnecessary files out of version control
 - `README.md` → Documentation
 
-## For example;
-<img width="950" height="635" alt="image" src="https://github.com/user-attachments/assets/0db2a8fb-14eb-4617-9047-7766aa99e3eb" />
+## Screenshots
 
-<img width="986" height="720" alt="image" src="https://github.com/user-attachments/assets/6283982d-efa9-433a-9025-be8bee83b110" />
+### The user input area:
+<img width="972" height="762" alt="image" src="https://github.com/user-attachments/assets/be02f2df-65c2-47ef-a595-fc74dc09ccfd" />
 
-<img width="931" height="912" alt="image" src="https://github.com/user-attachments/assets/aaf88bfc-5510-42ee-b339-be3de64e6af0" />
+### Ideas Generated:
+<img width="965" height="806" alt="image" src="https://github.com/user-attachments/assets/c1ed7d48-cfd7-4508-8245-2731c974a21c" />
+
+### Ideas saved:
+<img width="887" height="570" alt="image" src="https://github.com/user-attachments/assets/896dd64c-b2dc-47b6-990c-6ba4158dce1d" />
+
+### Ideas saved in database:
+<img width="1162" height="130" alt="image" src="https://github.com/user-attachments/assets/d9c501f9-e345-4a7a-8522-321325781a5a" />
+
+### After clicking download ideas: 
+<img width="461" height="152" alt="image" src="https://github.com/user-attachments/assets/a55c9853-d028-4774-949b-945c4c0cc32f" />
+
+### About section: 
+<img width="982" height="966" alt="image" src="https://github.com/user-attachments/assets/4890c86f-c04b-4630-894d-ebc1afdffd43" />
+
+## Author
+Developed by: Prachi Pujari
+Github: prachipujarii-ai
+
+## License
+MIT License
 
 
