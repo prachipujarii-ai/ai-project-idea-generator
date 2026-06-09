@@ -1,4 +1,4 @@
-**Project Name:** AI Project Idea Generator
+# Smart Project Idea Generator
 
 **Description:**
 This project generates personalized project ideas based on user skills, interest, and difficulty level.
